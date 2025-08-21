@@ -5,7 +5,10 @@ This Web application is a Reservation Management system (RMS) that i develop lon
 
 The tech stacks that i used are 
 
-php(Vanilla),jquey(javascript),Javascript(Vanilla), Bootstrap(Css),Mysql(relational databases),Json, ajax(for realtime fetching)
+tech stacks :php(Vanilla),jquey(javascript),Javascript(Vanilla), Bootstrap(Css),Mysql(relational databases),Json, ajax(for realtime fetching)
+
+SOap
+
 
 I know its a bit outdated but still Worth of keeping : >. 
 
