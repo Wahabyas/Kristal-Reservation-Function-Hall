@@ -7,7 +7,7 @@ The tech stacks that i used are
 
 tech stacks :php(Vanilla),jquey(javascript),Javascript(Vanilla), Bootstrap(Css),Mysql(relational databases),Json, ajax(for realtime fetching)
 
-SOap
+SOap : MVC
 
 
 I know its a bit outdated but still Worth of keeping : >. 
