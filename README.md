@@ -1,7 +1,7 @@
 # KRISTAL FUNCTION HALL
 
 
-This Web application is a Reservation Management system (RMS) that i develop long time ago 
+This Web application is a Reservation Management system (RMS)
 
 The tech stacks that i used are 
 
