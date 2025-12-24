@@ -1,10 +1,6 @@
 # KRISTAL FUNCTION HALL
 
 
-This Web application is a Reservation Management system (RMS)
-
-The tech stacks that i used are 
-
-php(Vanilla),jquey(javascript),Javascript(Vanilla), Bootstrap,Mysql,Json, ajax(for realtime fetching)
+This web application is a Reservation Management System (RMS) that includes a reservation scheduling module designed to eliminate overlapping reservation schedules and ensure efficient booking management.
 
 
